@@ -4,34 +4,26 @@
 - GitHub : [Forenard](https://github.com/Forenard)
 - Twitter : [@Renardealer](https://twitter.com/Renardealer)
 
-### Markdown
+# Self Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 東京工業大学20B 情報通信系に所属
+- [Atcoder緑](https://atcoder.jp/users/rennn)
+- Unityで主にゲームを作ります
+- 現在はシェーダを学んでいます
+- ゲーム、ゲームエンジン、
 
-```markdown
-Syntax highlighted code block
+# Works
 
-# Header 1
-## Header 2
-### Header 3
+### 制作
 
-- Bulleted
-- List
+- [ほしぞらたんけん](https://github.com/Forenard/Exploring-the-Starry-Sky) : 初めて個人で作ったゲーム(サイト)。迷路探索しかできませんが制作は楽しかった
+- [PaperCutStoneFantasy](https://github.com/Forenard/PaperCutStoneFantasy) : 部内ハッカソンの作品
+- [三次元セルオートマトン](https://github.com/Forenard/Applications-of-cellular-automata) : セルオートマトンに興味が出た時に作成しました
+- [Mesh破壊](https://github.com/Forenard/Mesh-destruction) : UnityでMeshの破壊を行いたかったので作りました
+- [離散フーリエ変換お絵描き](https://github.com/Forenard/DFT_FourierDrawer) : 離散フーリエ変換に興味が出た時に作成しました
+- [UnityEval](https://github.com/Forenard/Unity_Eval_Expamle) : Evalの実装をしたかったので
+- [CodeGame](https://github.com/Forenard/CodeGame_exe) : 上記のEvalを使ったゲーム
 
-1. Numbered
-2. List
+### 記事
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Forenard/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [UnityEvalの実装](https://trap.jp/post/1292/) : 部内の新刊記事として書きました
