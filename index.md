@@ -11,7 +11,7 @@
 
 
 - 東京工業大学20B 情報通信系に所属
-- [Atcoder緑](https://atcoder.jp/users/rennn)
+- Atcoderをやっていました : [私](https://atcoder.jp/users/rennn)
 - Unityで主にゲームを作ります
 - 現在はシェーダを学んでいます
 - ゲーム制作、ゲームエンジン、シェーダに興味があります
