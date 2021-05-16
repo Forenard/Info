@@ -20,7 +20,7 @@
 
 ### 制作
 
-- [ほしぞらたんけん](https://github.com/Forenard/Exploring-the-Starry-Sky) : 初めて個人で作ったゲーム(サイト)。迷路探索しかできませんが制作は楽しかった
+- [ほしぞらたんけん](https://github.com/Forenard/Exploring-the-Starry-Sky) : 初めて個人で作ったゲーム。迷路探索しかできませんが制作は楽しかった
 - [PaperCutStoneFantasy](https://github.com/Forenard/PaperCutStoneFantasy) : 部内ハッカソンの作品
 - [三次元セルオートマトン](https://github.com/Forenard/Applications-of-cellular-automata) : セルオートマトンに興味が出た時に作成しました
 - [Mesh破壊](https://github.com/Forenard/Mesh-destruction) : UnityでMeshの破壊を行いたかったので作りました
