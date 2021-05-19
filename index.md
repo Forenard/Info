@@ -21,7 +21,7 @@
 
 時系列順に上から古いです
 
-### 制作
+### 制作(ゲーム、機能)
 
 - [ほしぞらたんけん](https://github.com/Forenard/Exploring-the-Starry-Sky) : 初めて個人で作ったゲーム。迷路探索しかできませんが制作は楽しかった
 - [PaperCutStoneFantasy](https://github.com/Forenard/PaperCutStoneFantasy) : 部内ハッカソンにてグループで制作したゲーム
@@ -32,6 +32,8 @@
 - [UnityEval](https://github.com/Forenard/Unity_Eval_Expamle) : Evalの実装をしたかったので
 - [CodeGame](https://github.com/Forenard/CodeGame_exe) : 上記のEvalを使ったゲーム
 - [VRAirHockey](https://sidequestvr.com/app/4261/vrairhockey) : VRでアバターとエアホッケーをするゲーム
+
+### 制作(その他)
 
 
 ### 記事
