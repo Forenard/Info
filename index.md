@@ -35,7 +35,7 @@
 
 ### 制作(その他)
 
-- [GLSL](https://forenard.github.io/GLSL-FragmentShader/) : GLSLのフラグメントシェーダで書いたやつ
+- [GLSL](https://forenard.github.io/GLSL-FragmentShader/) : GLSLのフラグメントシェーダで書いたもののソースコードとギャラリー
 
 ### 記事
 
