@@ -31,7 +31,7 @@
 - [カラマリパス](https://unityroom.com/games/calamaripath) : 15日ハッカソンにて個人で制作したゲーム。レベルデザイン以外は満足
 - [UnityEval](https://github.com/Forenard/Unity_Eval_Expamle) : Evalの実装をしたかったので
 - [CodeGame](https://github.com/Forenard/CodeGame_exe) : 上記のEvalを使ったゲーム
-- [VRAirHockey](https://github.com/Forenard/VRAirHockey) : VRでアバターとエアホッケーをするゲーム
+- [VRAirHockey](https://sidequestvr.com/app/4261/vrairhockey) : VRでアバターとエアホッケーをするゲーム
 
 ### 制作(その他)
 
