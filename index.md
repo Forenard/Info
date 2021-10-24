@@ -13,7 +13,8 @@
 
 
 - 東京工業大学20B 情報通信系に所属
-- Atcoderをやっていました : [私](https://atcoder.jp/users/rennn)
+- [南国アールスタジオ](https://nangokrstudios.jp/)にてXRエンジニアとしてアルバイトをしています。
+- Atcoderをやっていました : [rennn](https://atcoder.jp/users/rennn)
 - Unityで主にゲームを作ります
 - 現在はシェーダを学んでいます
 - ゲーム制作、ゲームエンジン、シェーダー、ヒューリスティックに興味があります
@@ -33,13 +34,12 @@
 - [UnityEval](https://github.com/Forenard/Unity_Eval_Expamle) : Evalの実装をしたかったので
 - [CodeGame](https://github.com/Forenard/CodeGame_exe) : 上記のEvalを使ったゲーム
 - [VRAirHockey](https://sidequestvr.com/app/4261/vrairhockey) : VRでアバターとエアホッケーをするゲーム
-- [プラズシ](http://purazushi.trap.games/) : 部内ハッカソンにてグループで制作したゲーム。良いゲームにできた
+- [プラズシ](http://purazushi.trap.games/) : 部内ハッカソンにてグループで制作したゲーム。
+- **NEW** [GhostAndHideAndSeek](https://unityroom.com/games/gahas) : 今までで一番面白いゲームが作れました。オンラインゲームに挑戦した初めての作品
 
 ### 制作(その他)
 
-- [GLSL](https://forenard.github.io/GLSL-FragmentShader/) : GLSLのフラグメントシェーダで書いたもののソースコードとギャラリー
-- [ShaderToy](https://www.shadertoy.com/user/FoRenard) : 同上
-- [WebGL](https://github.com/Forenard/WebGL) : WebGLで学んだことをアウトプットする場所
+- [ShaderToy](https://www.shadertoy.com/user/FoRenard) : レイマーチングなどをしています
 
 ### 記事
 
