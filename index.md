@@ -3,7 +3,6 @@
 
 - Email : forenard2002@gmail.com
 - GitHub : [Forenard](https://github.com/Forenard)
-- Twitter : [@Renardealer](https://twitter.com/Renardealer)
 - ShaderToy : [FoRenard](https://www.shadertoy.com/user/FoRenard)
 - SideQuest : [Renard](https://sidequestvr.com/user/735125)
 
