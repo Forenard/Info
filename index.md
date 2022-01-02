@@ -13,7 +13,6 @@
 
 
 - 東京工業大学20B 情報通信系に所属
-- [南国アールスタジオ](https://nangokrstudios.jp/)にてXRエンジニアとしてアルバイトをしています。
 - Atcoderをやっていました : [rennn](https://atcoder.jp/users/rennn)
 - Unityで主にゲームを作ります
 - 現在はシェーダを学んでいます
@@ -25,22 +24,18 @@
 
 ### 制作(ゲーム、機能)
 
-- [ほしぞらたんけん](https://github.com/Forenard/Exploring-the-Starry-Sky) : 初めて個人で作ったゲーム。迷路探索しかできませんが制作は楽しかった
-- [PaperCutStoneFantasy](https://github.com/Forenard/PaperCutStoneFantasy) : 部内ハッカソンにてグループで制作したゲーム
-- [三次元セルオートマトン](https://github.com/Forenard/Applications-of-cellular-automata) : セルオートマトンに興味が出た時に作成しました
-- [Mesh破壊](https://github.com/Forenard/Mesh-destruction) : UnityでMeshの破壊を行いたかったので作りました
-- [離散フーリエ変換お絵描き](https://github.com/Forenard/DFT_FourierDrawer) : 離散フーリエ変換に興味が出た時に作成しました
-- [カラマリパス](https://unityroom.com/games/calamaripath) : 15日ハッカソンにて個人で制作したゲーム。レベルデザイン以外は満足
-- [UnityEval](https://github.com/Forenard/Unity_Eval_Expamle) : Evalの実装をしたかったので
-- [CodeGame](https://github.com/Forenard/CodeGame_exe) : 上記のEvalを使ったゲーム
-- [VRAirHockey](https://sidequestvr.com/app/4261/vrairhockey) : VRでアバターとエアホッケーをするゲーム
-- [プラズシ](http://purazushi.trap.games/) : 部内ハッカソンにてグループで制作したゲーム。
-- **NEW** [GhostAndHideAndSeek](https://unityroom.com/games/gahas) : 今までで一番面白いゲームが作れました。オンラインゲームに挑戦した初めての作品
+- [ほしぞらたんけん](https://github.com/Forenard/Exploring-the-Starry-Sky) : 初めて個人で作ったゲームです
+- [PaperCutStoneFantasy](https://github.com/Forenard/PaperCutStoneFantasy) : 部内ハッカソンにてグループで制作したゲームです
+- [離散フーリエ変換お絵描き](https://github.com/Forenard/DFT_FourierDrawer) : 離散フーリエ変換に興味が出た時に作成したゲーム、
+- [カラマリパス](https://unityroom.com/games/calamaripath) : 15日ハッカソンにて個人で制作したゲームです
+- [UnityEval](https://github.com/Forenard/Unity_Eval_Expamle) : UnityにおけるEvalの実装例です
+- [CodeGame](https://github.com/Forenard/CodeGame_exe) : 上記のUnityEvalを使ったゲームです
+- [VRAirHockey](https://sidequestvr.com/app/4261/vrairhockey) : VRでアバターとエアホッケーをするゲームです
+- [プラズシ](http://purazushi.trap.games/) : 部内ハッカソンにてグループで制作したゲームです
+- [GhostAndHideAndSeek](https://unityroom.com/games/gahas) : オンラインのかくれんぼゲームです
+- [HurryCarryBerry](https://drive.google.com/drive/folders/13GFZ4gnL8uZ6hw0WM67ZUOiNMjdjViKu) : 部内ハッカソンにてグループで制作したゲームです
+
 
 ### 制作(その他)
 
-- [ShaderToy](https://www.shadertoy.com/user/FoRenard) : レイマーチングなどをしています
-
-### 記事
-
-- [UnityEvalの実装](https://trap.jp/post/1292/) : 部内の新刊記事として書きました
+- [ShaderToy](https://www.shadertoy.com/user/FoRenard)
