@@ -34,8 +34,8 @@
 - [プラズシ](http://purazushi.trap.games/) : 部内ハッカソンにてグループで制作したゲームです
 - [GhostAndHideAndSeek](https://unityroom.com/games/gahas) : オンラインのかくれんぼゲームです
 - [HurryCarryBerry](https://drive.google.com/drive/folders/13GFZ4gnL8uZ6hw0WM67ZUOiNMjdjViKu) : 部内ハッカソンにてグループで制作したゲームです
-
+- [TalkUI](https://github.com/Forenard/Unity-TalkUI) : Unityにてノードベースで会話イベントを作成できる機能です
 
 ### 制作(その他)
-
+- [Narou-Novel-Generator](https://github.com/Forenard/Narou-Novel-Generator) : マルコフ連鎖、LSTMを用いたなろう小説ジェネレータです
 - [ShaderToy](https://www.shadertoy.com/user/FoRenard)
