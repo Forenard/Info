@@ -24,6 +24,7 @@
 - [VRAirHockey](https://sidequestvr.com/app/4261/vrairhockey) : VRでアバターとエアホッケーをするゲーム
 - [プラズシ](http://purazushi.trap.games/) : 部内ハッカソンにてグループで制作したゲーム
 - [GhostAndHideAndSeek](https://unityroom.com/games/gahas) : オンラインのかくれんぼゲーム
+- [ParalelWorldCollecter](https://unityroom.com/games/paralelworldcollecter)
 - **New** [You on I off](https://drive.google.com/drive/folders/19_gKx-8VF6E9ynnowQDIj3nWqB248nUj?usp=sharing) : 二人を同時に操作するパズルゲーム
 
 ### 制作(その他)
