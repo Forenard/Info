@@ -31,4 +31,6 @@
 
 - [UnityEval](https://github.com/Forenard/Unity_Eval_Expamle) : UnityにおけるEvalの実装例
 - [TalkUI](https://github.com/Forenard/Unity-TalkUI) : Unityにてノードベースで会話イベントを作成できる機能
-- **New** [SDFToMesh](https://github.com/Forenard/SDFToMesh) : MarchingCube法を用いてSDFをメッシュに変換する
+- [CPCTF:Visualizer](https://trap.jp/post/1573/) : CPCTF(東京工業大学デジタル創作同好会traP主催のCTF大会)でのVisualizer開発
+- [SDFToMesh](https://github.com/Forenard/SDFToMesh) : MarchingCube法を用いてSDFをメッシュに変換する
+- **New** [AudioVisualizer](https://www.youtube.com/watch?v=PuaDQ-hGOfY) : AudioVisualizer TouchDesignerを使用
