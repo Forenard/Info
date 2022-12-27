@@ -45,4 +45,4 @@
 
 - [つぶやきGLSL テクニック集](https://qiita.com/Renard_Renard/items/ba13b6590dfbcefa7156)
 - [つぶやきGLSLとは (PWA Night vol.44の発表資料)](https://www.slideshare.net/GearsRenard/glslpptx-253677717)
-
+- [【VRChat】自分のアバターにゲームを仕込んで暇潰ししよう](https://trap.jp/post/1743/)
